@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#6B81FA</color>
+    <color name="defaultWhite">#FAFAFA</color>
+    <color name="grey">#DCDCDC</color>
+    <color name="lightGrey">#F0F0F0</color>
+    <color name="blue">#33AAFF</color>
+    <color name="red">#FF0000</color>
+    <color name="purple">#BF82CC</color>
+    <color name="settingsTrackTrue">#E0E5FE</color>
+    <color name="settingsTrackFalse">#F1F3FF</color>
+    <color name="settingsSelectorTrue">#6B81FA</color>
+    <color name="settingsSelectorFalse">#D7DBFE</color>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="@color/settingsTrackTrue"/>
+            <size
+                android:height="20dp"
+                android:width="40dp"/>
+            <corners android:radius="999dp"/>
+        </shape>
+    </item>
+    <item android:state_checked="false">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="@color/settingsTrackFalse"/>
+            <size
+                android:height="25dp"
+                android:width="50dp"/>
+            <corners android:radius="999dp"/>
+        </shape>
+    </item>
+</selector>
